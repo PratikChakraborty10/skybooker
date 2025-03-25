@@ -1,7 +1,7 @@
-# Thena Assignment
+# SKYBOOKER
 
 ## 🌐 Live Demo
-[Visit the Application](https://thena-flight-booking.vercel.app/)
+[Visit the Application](https://skybooker.vercel.app/)
 
 ## 📝 About the Application
 The application features are:
@@ -35,8 +35,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PratikChakraborty10/thena-flight-booking
-cd thena-assignment
+git clone https://github.com/PratikChakraborty10/skybooker
+cd skybooker
 ```
 
 2. Install dependencies:
